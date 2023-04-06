@@ -8,7 +8,7 @@ namespace Day1
 {
     class Code2
     {
-        public static void Main(string[] arg)
+        public static void Main2(string[] args)
         {
             //pass all 0 at last without changing the index.
             int[] arr = {13,0,44,71,45,0,23,5,0,3,0,66 };
