@@ -8,7 +8,7 @@ namespace Day1
 {
     class Code1
     {
-        public static void Main(string[] arg)
+        public static void Main1(string[] arg)
         {
             //Find Large and Second Large element in ARRAY
             int[] arr = { 45, 55, 12, 34, 89, 56, 22, 17 };
